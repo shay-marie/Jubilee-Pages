@@ -1,1 +1,1 @@
-# Jubilee-Pages
+# jubilee-pages
